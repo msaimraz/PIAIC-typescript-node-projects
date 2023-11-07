@@ -1,9 +1,9 @@
 {
-  "name": "msr_clicalculator",
+  "name": "msr_cli_calculator",
   "version": "1.0.0",
-  "description": "[For the latest docs](https://www.typescriptlang.org/docs/)",
+  "description": "",
   "type": "module",
-  "main": "./app.js",
+  "main": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

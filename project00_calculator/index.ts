@@ -1,4 +1,4 @@
-import inquirer from "inquirer"; //calling inquirer
+import inquirer from "inquirer";
 import chalk from "chalk";
 
 // calculator function defination
