@@ -1,0 +1,19 @@
+{
+  "name": "msr_cli_number_guess",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "msr",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.6"
+  }
+}
